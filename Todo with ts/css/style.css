@@ -1,0 +1,52 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-top: 60px;
+}
+
+h1, h3{
+    font-family: 'Lucida Sans';
+}
+h1{
+    margin-bottom: 10px;
+}
+h3{
+    margin-top: 40px;
+}
+.app-cont{
+    width: 40%;
+    margin:0 auto;
+    padding: 15px 15px;
+    background-color: blueviolet;
+}
+
+ol{
+    margin: 0px;
+}
+
+li > div{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    background-color: blue;
+    padding: 0 10px;
+}
+
+li div div{
+    align-content: center;
+}
+
+#task-input{
+    height: 25px;
+    margin-right: 10px;
+}
+#add-button{
+    height: 30px;
+}
+
+.add{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
