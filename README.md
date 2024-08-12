@@ -8,6 +8,6 @@ This to app is, an app used for recording tasks you have planned to do, that is 
   2. ![Screenshot (1)](https://github.com/user-attachments/assets/8ef9db3d-e13f-4a8d-bc46-a2010bf080e6)
 
   3. To edit a task, click on a 'Edit' button in front of a task. Add new name and click 'OK'.
-  4.![Screenshot (2)](https://github.com/user-attachments/assets/a860a774-ee0e-4e4b-bcaa-964407545675)
+  4. ![Screenshot (2)](https://github.com/user-attachments/assets/a860a774-ee0e-4e4b-bcaa-964407545675)
 
   5. To add new task to a list, click on a 'Add Task' button. Enter task name and click 'Add' button.
